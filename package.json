@@ -1,5 +1,5 @@
 {
-  "name": "browser-security-test",
+  "name": "evykazy-moznosti",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tskozel/browser-sec-test.git"
+    "url": "git+https://github.com/tskozel/evykazy-moznosti.git"
   },
   "author": "Torsten Kozel",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/tskozel/browser-sec-test/issues"
+    "url": "https://github.com/tskozel/evykazy-moznosti/issues"
   },
-  "homepage": "https://github.com/tskozel/browser-sec-test#readme",
+  "homepage": "https://github.com/tskozel/evykazy-moznosti#readme",
   "dependencies": {
     "express": "^4.18.1",
     "moment-timezone": "^0.5.34"
