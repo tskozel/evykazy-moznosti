@@ -1,0 +1,24 @@
+{
+  "name": "browser-security-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tskozel/browser-sec-test.git"
+  },
+  "author": "Torsten Kozel",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/tskozel/browser-sec-test/issues"
+  },
+  "homepage": "https://github.com/tskozel/browser-sec-test#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
